@@ -1,0 +1,6 @@
+venv/
+output/
+
+build/
+dist/
+*.spec
